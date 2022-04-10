@@ -8,15 +8,15 @@
 
 <!--- 🔭 I’m currently working on ... -->
 <h3 align="center">Aprendendo: </h3>
+
 -       PHP Laravel;
 -       VueJS;
--       Python;   
--        
+-       Python;           
 - <h3 align="center">Interesse: </h3>
+
 -       Desenvolvimento Back End: PHP, NodeJS; 
 -       Desenvolvimento Front End: HTML, CSS, JS, VueJS;
--       Data Science: Python;    
--                       
+-       Data Science: Python;                       
 <h2 align="center">  Contato: </h2>
 
 - <a href="https://twitter.com/Pedromario00" target="_blank">
