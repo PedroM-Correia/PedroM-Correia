@@ -7,11 +7,11 @@
 
 
 <!--- 🔭 I’m currently working on ... -->
-- ### 🌱 Aprendendo:
+- <h3 align="center">Aprendendo: </h3>
 -       PHP Laravel;
 -       VueJS;
 -       Python;
-- ### 😀  Interesses: 
+- <h3 align="center">Interesse: </h3>
 -       Desenvolvimento Back End: PHP, NodeJS;
 -       Desenvolvimento Front End: HTML, CSS, JS, VueJS;
 -       Data Science: Python;
