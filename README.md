@@ -4,13 +4,13 @@
 
 
 <!--- 🔭 I’m currently working on ... -->
-- 🌱 ### Aprendendo - PHP Laravel, VueJS and Python
-- 😀 ### Interesses: 
+- ### 🌱 Aprendendo - PHP Laravel, VueJS and Python
+- ### 😀  Interesses: 
 -       Desenvolvimento Back End: PHP, NodeJS;
 -       Desenvolvimento Front End: HTML, CSS, JS, VueJS;
 -       Data Science: Python;
 -               
-- 📫 Contato: @pedrocorreia13 and pedro.mario@hotmail.com
+- ### 📫 Contato: @pedrocorreia13 and pedro.mario@hotmail.com
 
 
 - ### Apresentação
