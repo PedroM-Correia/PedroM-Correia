@@ -4,7 +4,10 @@
 
 
 <!--- 🔭 I’m currently working on ... -->
-- ### 🌱 Aprendendo - PHP Laravel, VueJS and Python
+- ### 🌱 Aprendendo:
+-       PHP Laravel;
+-       VueJS;
+-       Python;
 - ### 😀  Interesses: 
 -       Desenvolvimento Back End: PHP, NodeJS;
 -       Desenvolvimento Front End: HTML, CSS, JS, VueJS;
