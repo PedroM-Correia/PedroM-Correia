@@ -24,6 +24,6 @@
   <img align="center"  alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/pedrocorreia13/" target="_blank">
- <img align="center"  alt="instagram"/>
+ <img align="center"  src="https://img.shields.io/badge/-pedromario-05122A?style=flat&logo=instagram"  alt="instagram"/>
 </a>
 
