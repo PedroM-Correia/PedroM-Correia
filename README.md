@@ -10,16 +10,12 @@
 <h3 align="center">Aprendendo: </h3>
 
 -       PHP Laravel;
--       
 -       VueJS;
--       
 -       Python;
 -       
 - <h3 align="center">Interesse: </h3>
--       Desenvolvimento Back End: PHP, NodeJS;
--       
+-       Desenvolvimento Back End: PHP, NodeJS; 
 -       Desenvolvimento Front End: HTML, CSS, JS, VueJS;
--       
 -       Data Science: Python;
 -                      
 <h2 align="center">  Contato: </h2>
