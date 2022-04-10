@@ -20,10 +20,11 @@
 - <a href="https://twitter.com/Pedromario00" target="_blank">
   <img src="https://img.shields.io/badge/-pedromario-05122A?style=flat&logo=twitter"  alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/pedrom-correia/" target="_blank">
+
+- <a href="https://www.linkedin.com/in/pedrom-correia/" target="_blank">
   <img src="https://img.shields.io/badge/-pedromario-05122A?style=flat&logo=linkedin"  alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/pedrocorreia13/" target="_blank">
+ </a>
+- <a href="https://www.instagram.com/pedrocorreia13/" target="_blank">
  <img  src="https://img.shields.io/badge/-pedromario-05122A?style=flat&logo=instagram"  alt="instagram"/>
-</a>
+ </a>
 
