@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, tudo bem?👋
 
-<!--
+
 **PedroM-Correia/PedroM-Correia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--- 🔭 I’m currently working on ... -->
+- 🌱 #Aprendendo - PHP Laravel, VueJS and Python
+- 😀 #Interesses: 
+-       Desenvolvimento Back End: PHP, NodeJS;
+-       Desenvolvimento Front End: HTML, CSS, JS, VueJS;
+-       Data Science: Python;
+-               
+- 📫 Contato: @pedrocorreia13 and pedro.mario@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- #Apresentação
+
+  Opa, meu nome é Pedro Mário Damasceno Maciel Pereira Correia, moro em Maceió Alagoas e estou cursando Ciência da Computação na faculdade Unit. Estou no último período e me formarei no mês de Junho. Estou em busca de oportunidades para poder adquiri experiência de mercado e mostrar tudo que venho aprendendo com o passar do tempo. Amo aprender, e é isto que eu faço no meu dia a dia sempre procurando estudar novas tecnologias e me capacitar para este grande mercado. 
