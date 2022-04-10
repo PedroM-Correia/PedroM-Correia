@@ -2,12 +2,12 @@
 
 
 
-- <h2 align="center">Apresentação: </h2>
+<h2 align="center">  Apresentação: </h2>
  - Opa, meu nome é Pedro Mário Damasceno Maciel Pereira Correia, moro em Maceió Alagoas e estou cursando Ciência da Computação na faculdade Unit. Estou no último período e me formarei no mês de Junho. Estou em busca de oportunidades para poder adquiri experiência de mercado e mostrar tudo que venho aprendendo com o passar do tempo. Amo aprender, e é isto que eu faço no meu dia a dia sempre procurando estudar novas tecnologias e me capacitar para este grande mercado. 
 
 
 <!--- 🔭 I’m currently working on ... -->
-- <h3 align="center">Aprendendo: </h3>
+<h3 align="center">Aprendendo: </h3>
 -       PHP Laravel;
 -       VueJS;
 -       Python;
@@ -16,7 +16,7 @@
 -       Desenvolvimento Front End: HTML, CSS, JS, VueJS;
 -       Data Science: Python;
 -               
-- ### 📫 Contato: @pedrocorreia13 and pedro.mario@hotmail.com
+<h2 align="center">  Contato: </h2>
 - <a href="https://twitter.com/Pedromario00" target="_blank">
   <img src="https://img.shields.io/badge/-pedromario-05122A?style=flat&logo=twitter"  alt="twitter"/>  
   </a>
