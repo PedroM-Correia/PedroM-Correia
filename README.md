@@ -11,6 +11,7 @@
 -       PHP Laravel;
 -       VueJS;
 -       Python;
+-       
 - <h3 align="center">Interesse: </h3>
 -       Desenvolvimento Back End: PHP, NodeJS;
 -       Desenvolvimento Front End: HTML, CSS, JS, VueJS;
